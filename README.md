@@ -1,6 +1,8 @@
 # Haxeflixel---Haxetris
 
 
+This project is Compatible with Flixel 5.0.0
+
 
 This made strictly for educational reasons. The original game copyrights belong to their respective owners. 
 
